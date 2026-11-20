@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="家政保洁小队：从自己干到带人干，利润在哪一步消失">
+  <rect width="1200" height="750" fill="#f7f2e8"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#3a2b1c" opacity=".9"/>
+  <g opacity=".5"><g>
+      <path d="M740 520a230 230 0 0 1 460 0" fill="none" stroke="#3a2b1c" stroke-width="1.2" opacity=".35"/>
+      <path d="M770 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M820 520v-164" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M870 520v-208" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M920 520v-252" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M970 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1020 520v-164" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1070 520v-208" stroke="#a9853f" stroke-width="6" opacity="0.95"/><path d="M1120 520v-252" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1170 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/>
+    </g></g>
+  <path d="M72 120h96" stroke="#a9853f" stroke-width="2"/>
+  <text x="72" y="104" font-family="Georgia, serif" font-size="15" letter-spacing="3.4" fill="#3a2b1c" opacity=".62">CASE STUDY<tspan dx="16" font-family="'PingFang SC','Microsoft YaHei',sans-serif" letter-spacing="2">赚钱案例</tspan></text>
+  <text x="72" y="462" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#3a2b1c">家政保洁小队：从自己干</text><text x="72" y="524" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#3a2b1c">到带人干，利润在哪一步</text><text x="72" y="586" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#3a2b1c">消失</text>
+  <text x="74" y="674" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#3a2b1c" opacity=".58">保洁是少数“需求稳定、预付意愿强、可以本地复制”的服务业，但它的利润会在排班、返工和人员流失里被悄悄吃掉。</text>
+  <path d="M72 668h420" stroke="#3a2b1c" stroke-width="1" opacity=".3"/>
+  <text x="72" y="700" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" letter-spacing="2" fill="#3a2b1c" opacity=".65">小生意，赚大钱</text>
+  <text x="1128" y="700" text-anchor="end" font-family="Georgia, serif" font-size="13" letter-spacing="2.4" fill="#3a2b1c" opacity=".5">SMALL BUSINESS BIG MONEY</text>
+  <rect x="1094" y="72" width="34" height="34" fill="none" stroke="#3a2b1c" stroke-width="1.4" opacity=".55"/>
+  <path d="M1101 98h20M1105 98V88l5-4v14M1114 98V83l7 4v11" fill="none" stroke="#3a2b1c" stroke-width="1.2" opacity=".55"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="隐形成本：吃掉小生意利润的六笔钱">
+  <rect width="1200" height="750" fill="#fbf8f2"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#1b2f47" opacity=".9"/>
+  <g opacity=".5"><g>
+      <path d="M780 520h380" stroke="#1b2f47" stroke-width="2" opacity=".5"/>
+      <rect x="800" y="430" width="42" height="90" rx="2" fill="#1b2f47" opacity="0.16"/><rect x="874" y="380" width="42" height="140" rx="2" fill="#1b2f47" opacity="0.25"/><rect x="948" y="320" width="42" height="200" rx="2" fill="#1b2f47" opacity="0.33999999999999997"/><rect x="1022" y="260" width="42" height="260" rx="2" fill="#1b2f47" opacity="0.43000000000000005"/><rect x="1096" y="190" width="42" height="330" rx="2" fill="#c25a2b" opacity="1"/>
+      <path d="M821 430l74-26 74-38 74-40 74-48" fill="none" stroke="#c25a2b" stroke-width="2.4" opacity=".8"/>
+    </g></g>
+  <path d="M72 120h96" stroke="#c25a2b" stroke-width="2"/>
+  <text x="72" y="104" font-family="Georgia, serif" font-size="15" letter-spacing="3.4" fill="#1b2f47" opacity=".62">PROFIT STRUCTURE<tspan dx="16" font-family="'PingFang SC','Microsoft YaHei',sans-serif" letter-spacing="2">利润结构</tspan></text>
+  <text x="72" y="500" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#1b2f47">隐形成本：吃掉小生意利</text><text x="72" y="562" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#1b2f47">润的六笔钱</text>
+  <text x="74" y="650" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#1b2f47" opacity=".58">你以为的成本是房租、进货和工资。真正让利润消失的，往往是那些从来没被记进账本的钱。</text>
+  <path d="M72 668h420" stroke="#1b2f47" stroke-width="1" opacity=".3"/>
+  <text x="72" y="700" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" letter-spacing="2" fill="#1b2f47" opacity=".65">小生意，赚大钱</text>
+  <text x="1128" y="700" text-anchor="end" font-family="Georgia, serif" font-size="13" letter-spacing="2.4" fill="#1b2f47" opacity=".5">SMALL BUSINESS BIG MONEY</text>
+  <rect x="1094" y="72" width="34" height="34" fill="none" stroke="#1b2f47" stroke-width="1.4" opacity=".55"/>
+  <path d="M1101 98h20M1105 98V88l5-4v14M1114 98V83l7 4v11" fill="none" stroke="#1b2f47" stroke-width="1.2" opacity=".55"/>
+</svg>

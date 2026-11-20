@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="订阅制：把一次交易，变成可预测的收入">
+  <rect width="1200" height="750" fill="#f7f2e8"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#3a2b1c" opacity=".9"/>
+  <g opacity=".5"><g>
+      <path d="M740 520a230 230 0 0 1 460 0" fill="none" stroke="#3a2b1c" stroke-width="1.2" opacity=".35"/>
+      <path d="M770 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M820 520v-164" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M870 520v-208" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M920 520v-252" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M970 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1020 520v-164" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1070 520v-208" stroke="#a9853f" stroke-width="6" opacity="0.95"/><path d="M1120 520v-252" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/><path d="M1170 520v-120" stroke="#3a2b1c" stroke-width="2" opacity="0.24"/>
+    </g></g>
+  <path d="M72 120h96" stroke="#a9853f" stroke-width="2"/>
+  <text x="72" y="104" font-family="Georgia, serif" font-size="15" letter-spacing="3.4" fill="#3a2b1c" opacity=".62">BUSINESS MODEL<tspan dx="16" font-family="'PingFang SC','Microsoft YaHei',sans-serif" letter-spacing="2">商业模式</tspan></text>
+  <text x="72" y="500" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#3a2b1c">订阅制：把一次交易，变</text><text x="72" y="562" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#3a2b1c">成可预测的收入</text>
+  <text x="74" y="650" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#3a2b1c" opacity=".58">订阅不是“每月收一次钱”，而是承诺持续交付价值。做不到这一点，续费日就是流失日。</text>
+  <path d="M72 668h420" stroke="#3a2b1c" stroke-width="1" opacity=".3"/>
+  <text x="72" y="700" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" letter-spacing="2" fill="#3a2b1c" opacity=".65">小生意，赚大钱</text>
+  <text x="1128" y="700" text-anchor="end" font-family="Georgia, serif" font-size="13" letter-spacing="2.4" fill="#3a2b1c" opacity=".5">SMALL BUSINESS BIG MONEY</text>
+  <rect x="1094" y="72" width="34" height="34" fill="none" stroke="#3a2b1c" stroke-width="1.4" opacity=".55"/>
+  <path d="M1101 98h20M1105 98V88l5-4v14M1114 98V83l7 4v11" fill="none" stroke="#3a2b1c" stroke-width="1.2" opacity=".55"/>
+</svg>

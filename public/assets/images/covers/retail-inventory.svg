@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="零售与库存周转：毛利高，为什么还是不赚钱">
+  <rect width="1200" height="750" fill="#eef1ea"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#22402f" opacity=".9"/>
+  <g opacity=".5"><g>
+      <path d="M750 510h440" stroke="#22402f" stroke-width="1.4" opacity=".4"/>
+      <path d="M760 450l88-54 82 22 92-96 84 26 76-120" fill="none" stroke="#22402f" stroke-width="2.2"/>
+      <path d="M760 450l88-54 82 22 92-96 84 26 76-120v300h-422z" fill="#22402f" opacity=".06"/>
+      <circle cx="1182" cy="228" r="9" fill="#c25a2b"/>
+      <circle cx="848" cy="396" r="4" fill="#c25a2b"/>
+      <circle cx="1022" cy="322" r="4" fill="#c25a2b"/>
+    </g></g>
+  <path d="M72 120h96" stroke="#c25a2b" stroke-width="2"/>
+  <text x="72" y="104" font-family="Georgia, serif" font-size="15" letter-spacing="3.4" fill="#22402f" opacity=".62">BUSINESS MODEL<tspan dx="16" font-family="'PingFang SC','Microsoft YaHei',sans-serif" letter-spacing="2">商业模式</tspan></text>
+  <text x="72" y="500" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#22402f">零售与库存周转：毛利高</text><text x="72" y="562" font-family="'Noto Serif SC','Songti SC',serif" font-size="56" font-weight="600" letter-spacing="1" fill="#22402f">，为什么还是不赚钱</text>
+  <text x="74" y="650" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#22402f" opacity=".58">一件商品毛利 50%，听起来很赚钱。但如果它躺在仓库 120 天，你的资金回报可能还不如银行理财。</text>
+  <path d="M72 668h420" stroke="#22402f" stroke-width="1" opacity=".3"/>
+  <text x="72" y="700" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" letter-spacing="2" fill="#22402f" opacity=".65">小生意，赚大钱</text>
+  <text x="1128" y="700" text-anchor="end" font-family="Georgia, serif" font-size="13" letter-spacing="2.4" fill="#22402f" opacity=".5">SMALL BUSINESS BIG MONEY</text>
+  <rect x="1094" y="72" width="34" height="34" fill="none" stroke="#22402f" stroke-width="1.4" opacity=".55"/>
+  <path d="M1101 98h20M1105 98V88l5-4v14M1114 98V83l7 4v11" fill="none" stroke="#22402f" stroke-width="1.2" opacity=".55"/>
+</svg>

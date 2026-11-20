@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <pattern id="og-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#e3dbcd" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#f4eee3"/>
+  <rect width="1200" height="630" fill="url(#og-grid)" opacity="0.7"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#1b2f47"/>
+
+  <g transform="translate(84 96)">
+    <rect x="0" y="0" width="34" height="34" rx="4" fill="none" stroke="#1b2f47" stroke-width="1.6"/>
+    <path d="M7 26h20M11 26V16l5-4v14M20 26V11l8 5v10" fill="none" stroke="#1b2f47" stroke-width="1.3"/>
+    <circle cx="24" cy="19" r="2.4" fill="#c25a2b"/>
+    <text x="50" y="16" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#6f6a5f">SMALL BUSINESS</text>
+    <text x="50" y="32" font-family="Georgia, serif" font-size="13" letter-spacing="3" fill="#6f6a5f">BIG MONEY</text>
+  </g>
+
+  <text x="84" y="300" font-family="'Noto Serif SC','Songti SC',serif" font-size="92" font-weight="600" fill="#1a1f27" letter-spacing="-2">小生意，</text>
+  <text x="84" y="404" font-family="'Noto Serif SC','Songti SC',serif" font-size="92" font-weight="600" fill="#1a1f27" letter-spacing="-2">赚大钱<tspan fill="#c25a2b">。</tspan></text>
+  <text x="88" y="468" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" fill="#3b424e">研究小生意的赚钱逻辑，找到普通人真正可以经营的生意。</text>
+  <path d="M84 512h620" stroke="#cdc2b0" stroke-width="1"/>
+  <text x="88" y="552" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" letter-spacing="2" fill="#6f6a5f">赚钱案例 · 商业模式 · 利润结构 · 现金流 · 经营方法论</text>
+
+  <g transform="translate(760 120)">
+    <rect x="0" y="0" width="356" height="390" rx="12" fill="#fffdf9" stroke="#e3dbcd"/>
+    <path d="M32 300h292" stroke="#1b2f47" stroke-width="1.6"/>
+    <g fill="#1b2f47" opacity="0.85">
+      <rect x="52" y="248" width="34" height="52" rx="2"/>
+      <rect x="104" y="220" width="34" height="80" rx="2"/>
+      <rect x="156" y="186" width="34" height="114" rx="2"/>
+      <rect x="208" y="152" width="34" height="148" rx="2"/>
+      <rect x="260" y="112" width="34" height="188" rx="2" fill="#c25a2b"/>
+    </g>
+    <path d="M69 238l52-26 52-32 52-33 52-39" fill="none" stroke="#2f6b4f" stroke-width="2.4"/>
+    <text x="32" y="46" font-family="'PingFang SC',sans-serif" font-size="13" letter-spacing="2" fill="#8d877a">经营指标 / 示例</text>
+    <text x="32" y="82" font-family="Georgia, serif" font-size="34" fill="#1a1f27">+38%</text>
+    <text x="118" y="82" font-family="'PingFang SC',sans-serif" font-size="12" fill="#8d877a">复购率提升</text>
+    <circle cx="318" cy="46" r="6" fill="#b78a3c"/>
+  </g>
+</svg>
